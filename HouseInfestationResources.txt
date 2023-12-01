@@ -1,0 +1,9 @@
+Resources:
+
+Assets and code:
+	-Birds-https://assetstore.unity.com/packages/3d/characters/animals/birds/living-birds-15649
+	-Furniture(except bed)-https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055
+	-Trees-https://assetstore.unity.com/packages/vfx/shaders/world-space-trees-free-shader-117088
+	-Grass-https://assetstore.unity.com/packages/2d/textures-materials/floors/vis-pbr-grass-textures-198071
+
+
